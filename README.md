@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GreyMatterImpulsion
 - 👀 I’m interested in researching smth new in IT world.
-- 🌱 I’m currently learning Java EE
+- 🌱 I’m currently learning Automation Testing on Java
 - 📫 How to reach me: text me in my LinkedId https://www.linkedin.com/in/oleg-smargun-076585201/
 
 <!---
